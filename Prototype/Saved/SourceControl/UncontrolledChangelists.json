@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"M:/Unreal Projects/Prototype/Content/IA_Pogo.uasset",
+				"M:/Unreal Projects/Prototype/Content/IA_Jump.uasset",
+				"M:/Unreal Projects/Prototype/Content/IMC_Player.uasset",
+				"M:/Unreal Projects/Prototype/Content/IA_Move.uasset",
+				"M:/Unreal Projects/Prototype/Content/BP_Player.uasset"
+			]
+		}
+	]
+}
